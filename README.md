@@ -51,13 +51,13 @@
 ## 🔗 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="note_define" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://youtube.com/@yourchannel" target="_blank">
+  <a href="not_define" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
+  <a href="not_define" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"/>
   </a>
 </p>
