@@ -1,7 +1,7 @@
 # Hi there, I'm Nandkishor Soni! 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/legendxdevil/legendxdevil/output/snake.svg" alt="snake gif" />
+  <img src="[https://raw.githubusercontent.com/legendxdevil/legendxdevil/output/snake.svg](https://raw.githubusercontent.com/legendxdevil/legendxdevil/output/snake.svg)" alt="snake gif" />
 </p>
 
 ## 👨‍💼 About Me
