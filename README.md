@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/CapCut_Logo.svg" width="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-capcut-video-editing-software-owned-by-bytedance-logo-shadow-tal-revivo.png" width="40" />
   <img src="https://img.icons8.com/color/48/google-logo.png" width="40" title="Google Dorking"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40"/>
 </p>
