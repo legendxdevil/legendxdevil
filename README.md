@@ -63,4 +63,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=800&color=FF6B81&center=true&vCenter=true&width=500&lines=Code.+Automate.+Innovate.;Always+Learning.+Always+Coding." alt="typing animation"/>
+</p>
+
+---
+
 <p align="center">🌟 Made with passion by <strong>@legendxdevil</strong> 💻</p>
