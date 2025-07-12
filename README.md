@@ -1,21 +1,30 @@
-# Hi there, I'm Nandkishor Soni! 👋
+<!-- Aesthetic GitHub Profile README for @legendxdevil -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/legendxdevil/legendxdevil/output/snake.svg" alt="snake gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Hi%20I'm%20Nandkishor%20Soni!%20👋&fontAlign=50&fontColor=FFFFFF&fontSize=24&color=gradient"/>
 </p>
 
-## 👨‍💼 About Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/legendxdevil/legendxdevil/output/snake.svg" alt="Animated snake" />
+</p>
 
-* 🚀 I'm a passionate full-stack developer
-* 💡 Always learning new technologies
-* 🔍 Exploring DevOps & Open Source
-* 🌟 Building cool projects in my free time
+<h2 align="center">🚀 Full Stack Developer | 🔐 Ethical Tech Explorer | 🎯 Lifelong Learner</h2>
 
 ---
 
-## 🔧 Languages and Tools:
+## 👨‍💼 About Me
 
-<p align="left">
+- 🔥 Passionate Full-Stack Developer  
+- 📚 Always learning new technologies and concepts  
+- 🌐 Exploring **DevOps**, **Open Source**, and **AI Integration**  
+- 🧠 Love solving real-world problems through code  
+- 🎨 Building creative, useful, and smart web applications  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
@@ -29,39 +38,43 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
-  <img src="https://assets.reviews.omr.com/14tubevzcob3zzbek0ei5r69wd45" width="40" />
-  <img src="https://img.icons8.com/color/48/google-logo.png" width="40" title="Google Dorking"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/google-logo.png" width="40" title="Google Dorking"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![LegendXDevil's GitHub stats](https://github-readme-stats.vercel.app/api?username=legendxdevil\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=legendxdevil&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=legendxdevil&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=legendxdevil\&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=legendxdevil&theme=react-dark" />
+</p>
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Connect With Me
 
-<p align="left">
-  <a href="note_define" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="not_define" target="_blank">
+  <a href="https://www.youtube.com/YOUR-CHANNEL-HERE" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
   </a>
-  <a href="not_define" target="_blank">
+  <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"/>
   </a>
 </p>
 
 ---
 
-> 🌟 Made with passion by @legendxdevil
+<p align="center">🌟 Made with passion by <strong>@legendxdevil</strong> 💻</p>
