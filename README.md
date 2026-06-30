@@ -195,19 +195,19 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/" target="_blank">
+<a href="https://www.linkedin.com/in/nand-kishore-soni-036783317/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/YOUR-CHANNEL-HERE" target="_blank">
+<a href="https://www.youtube.com/@ind-funfood" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-<a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">
+<a href="x.com/x_nandkishore" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="https://instagram.com/YOUR-INSTAGRAM-HERE" target="_blank">
+<a href="https://instagram.com/m4lware" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="mailto:YOUR-EMAIL-HERE" target="_blank">
+<a href="mailto:nandkishorsoni098765@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
