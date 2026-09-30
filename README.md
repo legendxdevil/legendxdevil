@@ -225,7 +225,12 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 
 <p align="center"><img src="assets/h-connect.svg" height="60" alt="You Can Click Here"/></p>
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td width="42%" align="center" valign="middle">
+  <img src="assets/connect.gif" width="340" alt="Connect Animation"/>
+</td>
+<td width="58%" align="center" valign="middle">
 
 <a href="https://portfolio-2026-theta-steel.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/PORTFOLIO-B91C1C?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -236,6 +241,7 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 <a href="https://www.instagram.com/ig_nandkishore_soni" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-B91C1C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+<br/>
 <a href="https://x.com/x_nandkishore" target="_blank">
   <img src="https://img.shields.io/badge/X-B91C1C?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
@@ -245,6 +251,7 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 <a href="https://web.telegram.org/k/#@Tm_monarch" target="_blank">
   <img src="https://img.shields.io/badge/TELEGRAM-B91C1C?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+<br/>
 <a href="https://www.skills.google/public_profiles/17fd8191-5307-48d9-b9cd-dcd29428e518" target="_blank">
   <img src="https://img.shields.io/badge/GOOGLE_SKILLS-B91C1C?style=for-the-badge&logo=google&logoColor=white"/>
 </a>
@@ -255,7 +262,9 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 <br/>
 ⚡ Got a hackathon team or an idea worth shipping? Hit me up.
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
