@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Nandkishor Soni — Full Stack Developer"/>
+<img src="assets/banner.gif" width="100%" alt="Nandkishor Soni — Full Stack Developer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF0000&center=true&vCenter=true&width=700&lines=Turning+ideas+into+shipped+products.;Flutter+by+day%2C+Next.js+by+night.;Currently+building+SeismicRail+Command.;Open+to+collabs+%E2%80%94+let's+build+something." alt="Typing Animation"/>
 
