@@ -166,7 +166,7 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 
 </td>
 <td align="center" valign="middle">
-  <img src="assets/emblem.gif" width="280" alt="Tech Arsenal Animation"/>
+  <img src="assets/tech.gif" width="310" alt="Tech Arsenal Animation"/>
 </td>
 </tr>
 </table>
