@@ -144,21 +144,32 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 
 <p align="center"><img src="assets/h-stack.svg" height="60" alt="Tech Arsenal"/></p>
 
-<div align="center">
+<table align="center">
+<tr>
+<td valign="middle">
 
 **Mobile & Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,typescript,tailwind&theme=dark" />
 
+<br/><br/>
+
 **Backend, DB & Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,go,firebase,python,java,c,mysql,sqlite&theme=dark" />
+
+<br/><br/>
 
 **Tools & Platforms**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,vscode,androidstudio,linux&theme=dark" />
 
-</div>
+</td>
+<td align="center" valign="middle">
+  <img src="assets/emblem.gif" width="280" alt="Tech Arsenal Animation"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
