@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  # Har 12 ghante mein auto-update
+  # Har 24 ghante mein 8:00 AM IST (02:30 UTC) par auto-update
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "30 2 * * *"
   # Actions tab se manually run karne ke liye
   workflow_dispatch:
   # Jab bhi main branch mein push ho
