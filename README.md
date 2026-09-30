@@ -177,6 +177,14 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 
 <img src="https://streak-stats.demolab.com?user=legendxdevil&theme=dark&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&border=B91C1C" height="165"/>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" width="100%" />
+</picture>
+
 </div>
 
 <br/>
