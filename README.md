@@ -25,7 +25,7 @@
 <table align="center">
 <tr>
 <td width="34%" align="center" valign="middle">
-  <img src="assets/emblem.png" width="240" alt="emblem"/>
+  <img src="assets/emblem.gif" width="240" alt="emblem"/>
 </td>
 <td valign="middle">
 
