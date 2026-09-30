@@ -144,9 +144,9 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 
 <p align="center"><img src="assets/h-stack.svg" height="60" alt="Tech Arsenal"/></p>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td valign="middle">
+<td width="56%" valign="middle">
 
 **Mobile & Frontend**
 <br/>
@@ -165,8 +165,8 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 <img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,vscode,androidstudio,linux&theme=dark" />
 
 </td>
-<td align="center" valign="middle">
-  <img src="assets/tech.gif" width="310" alt="Tech Arsenal Animation"/>
+<td width="44%" align="center" valign="middle">
+  <img src="assets/tech.gif" width="390" alt="Tech Arsenal Animation"/>
 </td>
 </tr>
 </table>
