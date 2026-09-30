@@ -184,7 +184,11 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 <p align="center"><img src="assets/h-snake.svg" height="60" alt="Contribution Snake"/></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/legendxdevil/legendxdevil/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legendxdevil/legendxdevil/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/legendxdevil/legendxdevil/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/legendxdevil/legendxdevil/output/snake.svg" alt="Snake animation" />
+  </picture>
 </p>
 
 <br/>
