@@ -20,7 +20,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake.svg (red theme)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -28,6 +31,14 @@ jobs:
             dist/snake.svg?color_snake=%23ff0000&color_dots=%23161b22,%235c1010,%238b1a1a,%23b91c1c,%23ff2a2a
             dist/snake-dark.svg?color_snake=%23ff0000&color_dots=%23161b22,%235c1010,%238b1a1a,%23b91c1c,%23ff2a2a
             dist/snake-light.svg?color_snake=%23ff0000&color_dots=%23ebedf0,%23ffcdd2,%23e57373,%23e53935,%23b71c1c
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: bg_color=0D1117&color=FF0000&line=B91C1C&point=FFFFFF&area=true&area_color=B91C1C&hide_border=true&title_color=FF0000
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

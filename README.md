@@ -166,7 +166,7 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=legendxdevil&bg_color=0D1117&color=FF0000&line=B91C1C&point=FFFFFF&area=true&area_color=B91C1C&hide_border=true&title_color=FF0000" width="100%"/>
+<img src="https://raw.githubusercontent.com/legendxdevil/legendxdevil/output/activity-graph.svg" alt="legendxdevil's Activity Graph" width="100%"/>
 
 <br/>
 
