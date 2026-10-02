@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/emblem.gif" width="180" alt="emblem"/>
+  <img src="assets/emblem.gif" width="280" alt="emblem"/>
 </p>
 
 <p align="center">
