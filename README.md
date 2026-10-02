@@ -22,22 +22,17 @@
   <i>I build the kind of software that disappears into the background — fast, polished, and quietly doing exactly what it's supposed to.</i>
 </p>
 
-<table align="center">
-<tr>
-<td width="34%" align="center" valign="middle">
-  <img src="assets/emblem.gif" width="240" alt="emblem"/>
-</td>
-<td valign="middle">
+<p align="center">
+  <img src="assets/emblem.gif" width="180" alt="emblem"/>
+</p>
 
-B.Tech CSE student at **HMR ITM, Delhi** and a **full-stack developer** who moves comfortably between **mobile and web** — Flutter apps on one side, Next.js / React products on the other.
-
-I care about the details most people skip: the 200ms animation that makes a screen feel premium, the architecture decision that saves a refactor six months later.
-
-🔭 Right now I'm deep in **real-time systems** and **AI-assisted product design**.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  B.Tech CSE student at <b>HMR ITM, Delhi</b> and a <b>full-stack developer</b> who moves comfortably between <b>mobile and web</b> — Flutter apps on one side, Next.js / React products on the other.
+  <br/><br/>
+  I care about the details most people skip: the 200ms animation that makes a screen feel premium, the architecture decision that saves a refactor six months later.
+  <br/><br/>
+  🔭 Right now I'm deep in <b>real-time systems</b> and <b>AI-assisted product design</b>.
+</p>
 
 <br/>
 
@@ -144,32 +139,29 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 
 <p align="center"><img src="assets/h-stack.svg" height="60" alt="Tech Arsenal"/></p>
 
-<table align="center" width="100%">
-<tr>
-<td width="56%" valign="middle">
+<div align="center">
 
-**Mobile & Frontend**
+<img src="assets/tech.gif" width="440" alt="Tech Arsenal Animation"/>
+
+<br/><br/>
+
+<b>Mobile & Frontend</b>
 <br/>
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,typescript,tailwind&theme=dark" />
 
 <br/><br/>
 
-**Backend, DB & Languages**
+<b>Backend, DB & Languages</b>
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,go,firebase,python,java,c,mysql,sqlite&theme=dark" />
 
 <br/><br/>
 
-**Tools & Platforms**
+<b>Tools & Platforms</b>
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,vscode,androidstudio,linux&theme=dark" />
 
-</td>
-<td width="44%" align="center" valign="middle">
-  <img src="assets/tech.gif" width="390" alt="Tech Arsenal Animation"/>
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -225,12 +217,11 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 
 <p align="center"><img src="assets/h-connect.svg" height="60" alt="You Can Click Here"/></p>
 
-<table align="center" width="100%">
-<tr>
-<td width="42%" align="center" valign="middle">
-  <img src="assets/connect.gif" width="340" alt="Connect Animation"/>
-</td>
-<td width="58%" align="center" valign="middle">
+<div align="center">
+
+<img src="assets/connect.gif" width="300" alt="Connect Animation"/>
+
+<br/><br/>
 
 <a href="https://portfolio-2026-theta-steel.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/PORTFOLIO-B91C1C?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -241,7 +232,6 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 <a href="https://www.instagram.com/ig_nandkishore_soni" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-B91C1C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<br/>
 <a href="https://x.com/x_nandkishore" target="_blank">
   <img src="https://img.shields.io/badge/X-B91C1C?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
@@ -251,7 +241,6 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 <a href="https://web.telegram.org/k/#@Tm_monarch" target="_blank">
   <img src="https://img.shields.io/badge/TELEGRAM-B91C1C?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-<br/>
 <a href="https://www.skills.google/public_profiles/17fd8191-5307-48d9-b9cd-dcd29428e518" target="_blank">
   <img src="https://img.shields.io/badge/GOOGLE_SKILLS-B91C1C?style=for-the-badge&logo=google&logoColor=white"/>
 </a>
@@ -262,9 +251,7 @@ Next.js 14 + TypeScript products with Framer Motion micro-interactions, Firebase
 <br/>
 ⚡ Got a hackathon team or an idea worth shipping? Hit me up.
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
